@@ -26,7 +26,7 @@ Grande parte do que desenvolvi são de projetos privados, então, aos poucos vou
 
 ### 🌟 **[Meu Cofre](https://github.com/jardimmatos/mycofre)**
 - **Descrição**: Um sistema de gerenciamento de senhas criptografadas
-- **Stack**: Django, dbsqlite
+- **Stack**: Django, dbsqlite, CI/CD GitHub, Lint/Pytest
 ---
 
 ## 🛠️ Habilidades Técnicas
