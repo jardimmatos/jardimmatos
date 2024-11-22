@@ -24,10 +24,6 @@ Grande parte do que desenvolvi são de projetos privados, então, aos poucos vou
 - **Descrição**: Baseado no livro "Aprenda Django 3 com exemplos", de Antonio Melé
 - **Stack**: Django, HTML, CSS
 
-### 🌟 **[Boletim Educacional Diário](https://github.com/seu-repositorio)**
-- **Descrição**: Geração automática de boletins diários em PDF com gráficos e análises estratégicas usando pandas e matplotlib.
-- **Stack**: Python, Seaborn, Flask
-
 ---
 
 ## 🛠️ Habilidades Técnicas
