@@ -17,13 +17,16 @@ Estou em constante aprendizado, buscando sempre expandir meus horizontes explora
 Grande parte do que desenvolvi são de projetos privados, então, aos poucos vou atualizando por aqui...
 
 ### 🌟 **[Minha intranet](https://github.com/jardimmatos/myintra)**
-- **Descrição**: Um sistema de gerenciamento de circulação de dispositivos, agendamento de espaços, Fila de Atendimentos, Cofre de Senhas Criptografadas, Documentação Wiki
+- **Descrição**: Um sistema de gerenciamento de circulação de dispositivos, agendamento de espaços, Fila de Atendimentos, Documentação Wiki
 - **Stack**: Django, MySQL, Websocket, Celery, Redis
 
 ### 🌟 **[Blog](https://github.com/jardimmatos/myblog)**
 - **Descrição**: Baseado no livro "Aprenda Django 3 com exemplos", de Antonio Melé
 - **Stack**: Django, HTML, CSS
 
+### 🌟 **[Meu Cofre](https://github.com/jardimmatos/mycofre)**
+- **Descrição**: Um sistema de gerenciamento de senhas criptografadas
+- **Stack**: Django, dbsqlite
 ---
 
 ## 🛠️ Habilidades Técnicas
