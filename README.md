@@ -6,7 +6,7 @@ Tenho experiência em criar sistemas web, escaláveis e soluções personalizada
 Estou em constante aprendizado, buscando sempre expandir meus horizontes explorando design patterns, frameworks,... entre outras técnicas e práticas.
 
 🔹 **Back-End**: Django, Django Rest Framework (DRF), Flask  
-🔹 **Front-End**: JavaScript (ES6+), Vue.js, React  
+🔹 **Front-End**: JavaScript, Vue.js, React  
 🔹 **Banco de Dados**: MySQL, MS SQL Server, PostgreSQL  
 🔹 **DevOps**: Docker, Nginx, Hyper-V  
 🔹 **Ferramentas**: Git, Pyenv, Cookiecutter, Prettier, Flake8, Pre-Commit, Pytest  
